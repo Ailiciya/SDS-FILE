@@ -1,0 +1,5 @@
+﻿  FulldanEmpty.cpp
+D:\code\Kuliah\Stack\Stack\FulldanEmpty.cpp(80,7): error C2535: 'void stack::push(int)': member function already defined or declared
+D:\code\Kuliah\Stack\Stack\FulldanEmpty.cpp(29): message : see declaration of 'stack::push'
+D:\code\Kuliah\Stack\Stack\FulldanEmpty.cpp(96,7): error C2535: 'void stack::display(void)': member function already defined or declared
+D:\code\Kuliah\Stack\Stack\FulldanEmpty.cpp(60): message : see declaration of 'stack::display'
